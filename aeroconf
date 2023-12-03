@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+	echo "Aero Terminal Configurator 사용법"
+	echo ""
+	echo ""
+	echo "aeroconf --startup-msg [true/false] : 터미널을 시작할때 나오는 메세지를 활성화하거나, 비활성화 합니다."
+	echo ""
+	echo "aeroconf --force-display (가로) (세로) : 강제로 화면 해상도를 지정합니다."
+	echo ""
+	echo "aeroconf --disable-wm : 윈도우 매니저를 종료합니다."
+	echo ""
+	echo "aeroconf --disable-ws [true/false] : 부팅음을 활성화 하거나, 비활성화 합니다."
